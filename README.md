@@ -20,3 +20,6 @@
 ## CONTACT PAGE(SDSContactus.html)
 <img width="285" alt="2021-09-06 (6)" src="https://user-images.githubusercontent.com/82633814/132224589-42d85283-aef0-4890-8713-bc2931050059.png">
 
+## footer
+<img width="941" alt="2021-09-06 (7)" src="https://user-images.githubusercontent.com/82633814/132225885-c5e833be-be76-4166-afc5-f85b6d2720c2.png">
+
